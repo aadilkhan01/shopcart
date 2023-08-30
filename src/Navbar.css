@@ -1,0 +1,56 @@
+
+.navbar{
+    color: white;
+   background-color: black;
+   width: 100%;
+   height: 50px;
+}
+.navbarLink{
+    display: flex;
+    gap: 2rem;
+    float: right;
+    /* justify-content: end;   */
+    margin-right: 2rem;
+}
+.navbarLink li{
+    text-decoration: none;
+    list-style: none;
+    
+}
+.navbarLink a{
+    color: white;
+    text-decoration: none;
+
+
+}
+input[type=text] {
+    float: left;
+    padding: 6px;
+    margin-top: 8px;
+    margin-right: 16px;
+   
+    border: none;
+    font-size: 17px;
+    width: 20%;
+    outline: none;
+
+   
+    /* min-width: 10%; */
+} 
+.searchBtn{
+    margin-top: 8px;
+    font-size: 17px;
+    color: white;
+    background-color: #e2b82b;
+    padding: 5px;
+    max-inline-size: 100px;
+    border-color: transparent;
+ }
+ .img{
+    float: left;
+    width: 7%;
+    background-color: white;
+    margin-right: 5rem;
+    height: 100%;
+
+ }

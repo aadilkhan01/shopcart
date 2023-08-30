@@ -1,0 +1,26 @@
+.footer{
+    background-color: black;
+   color: white;
+   text-align: center;
+   height: 50px;
+   position: fixed;
+   left: 0;
+   bottom: 0;;
+   width: 100%;
+}
+.btn{
+    text-decoration:o;
+    border: 2px solid #f8f9fa; /* Light color for the border */
+    color: #f8f9fa; /* Light color for the text */
+    background-color: transparent; /* Transparent background */
+    padding: 0.375rem 0.75rem; /* Padding values may need adjustment */
+    border-radius: 0.25rem;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15); /* Example box shadow for a floating effect */
+    transition: transform 0.3s ease;
+    margin: 0.25rem;
+    
+}
+.bottmfooter{
+    text-align: center;
+    padding: 3px;
+}

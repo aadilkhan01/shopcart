@@ -1,0 +1,71 @@
+.cartItem{
+    width: 50%;
+    margin-bottom: 150px;
+}
+.cart{
+    
+    display: flex;
+    height: 300px;
+    background-color:blanchedalmond
+
+    
+
+
+}
+.content{
+    width: 70%;
+    background-color:whitesmoke;
+}
+.cart img{
+    width: 30%;
+    height: inherit;
+    
+}
+.removeBtn{
+    background-color: bisque;
+    width: 90px;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+   
+
+
+}
+.removeBtn:hover{
+    background-color: rgb(199, 147, 84);
+    color: white;
+}
+.buyNow{
+float: right;
+position: absolute;
+top: 40px;
+right: 0px;
+    background-color: rgb(235, 233, 230);
+    width: 20%;
+    padding: 20px;
+    height: 150px;
+    font-size: larger;
+    
+ 
+    margin: 20px;
+    border:1px solid rgb(223, 211, 211);
+    box-shadow: 2px 2px 5px 2px ;
+    box-sizing: border-box;
+
+}
+.buybtn{
+    background-color: burlywood;
+    width: 80px;
+    height: 30px;
+    margin: 20px;
+}
+.buybtn:hover{
+    background-color: rgb(156, 89, 6);
+    color: white;
+}
+.upperimg{
+height: 200px;
+width: 60%;
+
+}
